@@ -1,0 +1,62 @@
+@charset "UTF-8";
+
+[class^="svgIcon-"] {
+  background-color: #b2b2b2;
+  mask-size: cover;
+
+}
+
+[class^="svgIcon-"].highlight {
+  display: block;
+	background-image: linear-gradient(0deg, rgba(85, 141, 244, 0.96) 0%, rgba(85, 171, 244, 0.96) 100%);
+}
+
+.svgIcon-bell {
+  mask: url('../picture/bell.svg')  no-repeat 50% 50%;
+}
+.svgIcon-fundRecord {
+  mask: url('../picture/fundRecord.svg')  no-repeat 50% 50%;
+}
+.svgIcon-heTongMianQian {
+  mask: url('../picture/heTongMianQian.svg')  no-repeat 50% 50%;
+}
+.svgIcon-jieKuanWanCheng {
+  mask: url('../picture/jieKuanWanCheng.svg')  no-repeat 50% 50%;
+}
+.svgIcon-loan {
+  mask: url('../picture/loan.svg')  no-repeat 50% 50%;
+}
+.svgIcon-phoneCall {
+  mask: url('../picture/phoneCall.svg')  no-repeat 50% 50%;
+}
+.svgIcon-rightWardDoubleArrow {
+  mask: url('../picture/rightWardDoubleArrow.svg')  no-repeat 50% 50%;
+}
+.svgIcon-crumbsNavButton {
+  mask: url('../picture/crumbsNavButton.svg')  no-repeat 50% 50%;
+}
+.svgIcon-homePage {
+  mask: url('../picture/homePage.svg')  no-repeat 50% 50%;
+}
+.svgIcon-leftWardArrow {
+  mask: url('../picture/leftWardArrow.svg')  no-repeat 50% 50%;
+}
+.svgIcon-prefixForHeadline {
+  mask: url('../picture/prefixForHeadline.svg')  no-repeat 50% 50%;
+}
+.svgIcon-dianHuaYuYue {
+  mask: url('../picture/dianHuaYuYue.svg')  no-repeat 50% 50%;
+}
+.svgIcon-heTong {
+  mask: url('../picture/heTong.svg')  no-repeat 50% 50%;
+}
+.svgIcon-investment {
+  mask: url('../picture/investment.svg')  no-repeat 50% 50%;
+}
+.svgIcon-realization {
+  mask: url('../picture/realization.svg')  no-repeat 50% 50%;
+}
+.svgIcon-zaiXianShenQing {
+  mask: url('../picture/zaiXianShenQing.svg')  no-repeat 50% 50%;
+}
+
